@@ -1,6 +1,5 @@
-Replace these files in the SIP-Book-of-Belonging repository root:
-- index.html
-- service-worker.js
-- VERSION.txt
+SIP BOOK OF BELONGING — EDITION 1.3
 
-This update changes the phone number to (414) 909-3279 and adds selassiefest.com.
+Updated the “Whatever Brought You Here” hero title and “You Belong Here” closing title to Jost, with a sleek luxury editorial treatment.
+
+Replace the included files in the repository root, preserving the assets/css folder path.
