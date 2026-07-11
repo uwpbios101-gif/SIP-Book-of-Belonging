@@ -1,0 +1,11 @@
+SIP BOOK OF BELONGING — GITHUB DEPLOYMENT
+
+1. Create or open the GitHub repository folder.
+2. Copy every file and folder from this package into the repository root.
+3. Confirm index.html is directly in the root.
+4. Commit: Launch the SIP Book of Belonging
+5. Push origin.
+6. In GitHub: Settings > Pages > Deploy from a branch > main / root.
+
+Recommended repository name: SIP-Book-of-Belonging
+Expected URL: https://YOUR-USERNAME.github.io/SIP-Book-of-Belonging/
