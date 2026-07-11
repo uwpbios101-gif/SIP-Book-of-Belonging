@@ -1,0 +1,6 @@
+Replace these files in the SIP-Book-of-Belonging repository root:
+- index.html
+- service-worker.js
+- VERSION.txt
+
+This update changes the phone number to (414) 909-3279 and adds selassiefest.com.

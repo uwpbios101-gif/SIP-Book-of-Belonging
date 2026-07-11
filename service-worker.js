@@ -1,11 +1,11 @@
-const CACHE='sip-book-of-belonging-v1';
+const CACHE='sip-book-of-belonging-v1-2-contact-update';
 const CORE=[
   "./",
   "./index.html",
-  "./assets/css/styles.css?v=1.0.0",
-  "./assets/js/app.js?v=1.0.0",
+  "./assets/css/styles.css?v=1.2.0",
+  "./assets/js/app.js?v=1.2.0",
   "./assets/data/campaigns.json",
-  "./manifest.webmanifest?v=1.0.0",
+  "./manifest.webmanifest?v=1.2.0",
   "./assets/img/sip-logo.png",
   "./assets/img/icon-192.png",
   "./assets/img/icon-512.png",
