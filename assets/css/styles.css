@@ -147,3 +147,30 @@
   .hero-title .title-brought { font-size:clamp(47px,14.5vw,72px); line-height:.88; white-space:normal; }
   .hero-title .title-here { margin-left:.72em; font-size:clamp(55px,17vw,86px); line-height:.9; }
 }
+
+
+/* Edition 1.4 — 40% smaller, unified-color hero title */
+.hero-title .title-whatever,
+.hero-title .title-brought,
+.hero-title .title-here {
+  color:#f2eadf!important;
+  background:none!important;
+  -webkit-background-clip:border-box!important;
+  background-clip:border-box!important;
+  -webkit-text-fill-color:#f2eadf!important;
+  text-shadow:0 4px 14px rgba(0,0,0,.48);
+}
+.hero-title .title-whatever {
+  font-size:clamp(10px,.87vw,15px)!important;
+}
+.hero-title .title-brought {
+  font-size:clamp(41px,4.8vw,77px)!important;
+}
+.hero-title .title-here {
+  font-size:clamp(40px,4.74vw,76px)!important;
+}
+@media(max-width:680px){
+  .hero-title .title-whatever { font-size:8px!important; }
+  .hero-title .title-brought { font-size:clamp(28px,8.7vw,43px)!important; }
+  .hero-title .title-here { font-size:clamp(33px,10.2vw,52px)!important; }
+}
